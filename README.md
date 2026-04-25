@@ -31,6 +31,8 @@ A Python-based recommendation system that:
 Enter your percentage: 78
 Enter your interest: cs
 
+![Career Guidance Output](AI.guidance.-tool.ss.png)
+
 Recommended Careers:
 1. Software Engineer — High Match
 2. Data Analyst — High Match
